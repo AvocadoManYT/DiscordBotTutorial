@@ -1,1 +1,3 @@
 # DiscordBotTutorial
+
+## Thanks for watching!
